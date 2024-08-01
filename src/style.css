@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  font-family: "Gupter", serif;
+  font-weight: 700;
+  font-style: normal;
+}
